@@ -1,0 +1,18 @@
+[
+    {
+      "title": "Project A",
+      "imageSrc": "projects/project.png",
+      "description": "Built a website where anonymous person can send message to the user using an URL generated.",
+      "skills": ["Next.js", "MongoDB", "Node","Tailwind"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/RitikSingh931/TRUE-FEEDBACK"
+    },
+    {
+      "title": "Project B",
+      "imageSrc": "projects/project.png",
+      "description": "Built a common platform where multiple users can share their pictures",
+      "skills": ["React", "Express", "Node", "Redux-Toolkit","Tailwind"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/RitikSingh931/Image-Sharing-App"
+    }
+  ]
